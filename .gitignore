@@ -1,0 +1,37 @@
+# React Native specific
+node_modules
+android/build/
+ios/build/
+android/app/build/
+ios/Pods/
+*.log
+ios/Pods
+android/app/build/outputs/apk/debug/app-debug.apk
+ios/Pods/hermes-engine/destroot/Library/Frameworks/universal/hermes.xcframework/ios-arm64/hermes.framework/hermes
+ios/Pods/hermes-engine/destroot/Library/Frameworks/universal/hermes.xcframework/ios-arm64_x86_64-maccatalyst/hermes.framework/Versions/0/hermes
+# Dependency lock files
+yarn.lock
+package-lock.json
+npm-shrinkwrap.json
+# IDE and editor specific files (optional)
+.vscode/
+.idea/
+# Debug files (optional)
+*.iml
+*.iws
+*.idea/
+# macOS specific
+.DS_Store
+# Environment specific (optional)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Generated files (optional)
+*.expo*
+*.jks
+*.p12
+*.apk
+*.aab
+*.keystore

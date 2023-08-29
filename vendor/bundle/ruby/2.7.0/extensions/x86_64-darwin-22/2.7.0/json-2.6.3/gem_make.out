@@ -1,0 +1,16 @@
+current directory: /Users/ample/Desktop/ReduxDemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/ample/.rvm/rubies/ruby-2.7.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/ample/Desktop/ReduxDemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230825-2424-12y0m6 sitelibdir\=./.gem.20230825-2424-12y0m6 clean
+
+current directory: /Users/ample/Desktop/ReduxDemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230825-2424-12y0m6 sitelibdir\=./.gem.20230825-2424-12y0m6
+make: Nothing to be done for `all'.
+
+current directory: /Users/ample/Desktop/ReduxDemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230825-2424-12y0m6 sitelibdir\=./.gem.20230825-2424-12y0m6 install
+
+current directory: /Users/ample/Desktop/ReduxDemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230825-2424-12y0m6 sitelibdir\=./.gem.20230825-2424-12y0m6 clean
